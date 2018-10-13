@@ -1,1 +1,3 @@
-### Chirper
+# Chirper
+
+A twitter clone :)
