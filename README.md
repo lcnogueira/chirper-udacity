@@ -18,4 +18,4 @@ npm start
 
 ## Credits
 
-This project was built by Tyler Mcginnis in React Nanodegree Program (React).
+This project was built by Tyler Mcginnis in React Nanodegree Program.
