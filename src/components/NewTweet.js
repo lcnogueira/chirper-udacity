@@ -34,7 +34,7 @@ class NewTweet extends Component {
   render() {
     const { text, toHome } = this.state;
 
-    if (toHome) return <Redirect to="/" />;
+    if (toHome) return <Redirect to="/chirper-udacity" />;
 
     const tweetSize = 280;
     const tweetLeft = tweetSize - text.length;

@@ -5,7 +5,7 @@ export default function Nav() {
     <nav className="nav">
       <ul>
         <li>
-          <NavLink to="/" exact activeClassName="active">
+          <NavLink to="/chirper-udacity" exact activeClassName="active">
             Home
           </NavLink>
         </li>
